@@ -1,4 +1,4 @@
-import connectToWhatsapp from './Infoliens/crew.js'
+import connectToWhatsapp from './Infoliens/BLOG.js'
 import handleIncomingMessage from './events/messageHandler.js'
 
 (async() => {
