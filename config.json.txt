@@ -1,0 +1,20 @@
+{
+  "users": {
+    "979119200": {
+      "sudoList": [
+        "243979119200@s.whatsapp.net",
+        "979119200@s.whatsapp.net"
+      ],
+      "tagAudioPath": "database/Infoliens.mp3",
+      "antilink": true,
+      "response": true,
+      "autoreact": false,
+      "prefix": ".",
+      "reaction": "⚡",
+      "welcome": true,
+      "record": true,
+      "type": true,
+      "publicMode": false
+    }
+  }
+}
